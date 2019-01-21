@@ -1,0 +1,19 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "Chat application built with node, mongodb, express and socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashraikar1087/chatapp.git"
+  },
+  "author": "Yash Raikar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yashraikar1087/chatapp/issues"
+  },
+  "homepage": "https://github.com/yashraikar1087/chatapp#readme"
+}
